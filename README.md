@@ -1,10 +1,10 @@
-Website Style: Phantom by HTML5 UP ((html5up.net)
-I'm using it under the CCA 3.0 license (html5up.net/license)
-Credits:
-Demo Images:
-Unsplash (unsplash.com)
-Icons:
-Font Awesome (fontawesome.io)
-Other:
-jQuery (jquery.com)
-Responsive Tools (github.com/ajlkn/responsive-tools)
+Website Style: Phantom by HTML5 UP ((html5up.net)<br/>
+I'm using it under the CCA 3.0 license (html5up.net/license)<br/>
+Credits:<br/>
+Demo Images:<br/>
+Unsplash (unsplash.com)<br/>
+Icons:<br/>
+Font Awesome (fontawesome.io)<br/>
+Other:<br/>
+jQuery (jquery.com)<br/>
+Responsive Tools (github.com/ajlkn/responsive-tools)<br/>
